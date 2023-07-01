@@ -11,18 +11,19 @@ shift + alt + left
 ```
 ## Ordenar datos
 ### Forma 1
-1. Desde la pestana datos, seccion "Ordenar y filtar"
+1. Desde la pestana datos, seccion "Ordenar y filtar".
    ![Captura](https://static.platzi.com/media/user_upload/Ordenar_1-d660fed6-89c0-4ada-87b4-a301d2003508.jpg)
-3. Hacer click en el boton "Ordenar"
+3. Hacer click en el boton "Ordenar".
    ![Captura](https://static.platzi.com/media/user_upload/Ordenar_2-a5223c61-3fc9-4e71-b453-db0922d770c2.jpg)
-4. Agregar Nivel: Excel nos permite ordenar más de una columna, donde
-5. Ordena por la primer columna seleccionada en el nivel 1
-6. Con los datos ya ordenados con el criterio del primer nivel, ahora ordena con la segunda columna seleccionada
-7. El nivel siguiente se ordena segun el orden aplicado del nivel anterior.
+
+5. Agregar Nivel: Excel nos permite ordenar más de una columna
+6. Ordena por la primer columna seleccionada en el nivel 1
+7. Con los datos ya ordenados con el criterio del primer nivel, ahora ordena con la segunda columna seleccionada
+8. El nivel siguiente se ordena segun el orden aplicado del nivel anterior.
 #### Ordenas por:
-    * El combo muestra las columnas que contienen datos para seleccionar por cual de esas columnas vamos a realizar el ordenamiento.
-    * Se se marca el check “Mis datos tienen encabezados” va tomará como en cabezado los valores de la primer fila.
-    * Cuando el set de datos a ordenar estan dentro de una tabla, Excel carga los encabezados de la tabla y no nos permite quitar el check.
+   * El combo muestra las columnas que contienen datos para seleccionar por cual de esas columnas vamos a realizar el ordenamiento.
+   * Se se marca el check “Mis datos tienen encabezados” va tomará como en cabezado los valores de la primer fila.
+   * Cuando el set de datos a ordenar estan dentro de una tabla, Excel carga los encabezados de la tabla y no nos permite quitar el check.
 
 #### Ordenar según: Tipos de ordenamientos que podemos hacer en Excel. Valores, Color de relleno de celta, color de text (fuente) o bien el icono de la celta.
 
